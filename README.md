@@ -67,7 +67,7 @@ Para que o script funcione, você precisa da biblioteca do Couchbase. Escolha um
 * Opção A (Recomendado): Usando o arquivo requirements.txt
 Esta é a forma mais organizada. Crie um arquivo chamado requirements.txt na pasta do seu projeto com o seguinte conteúdo:
 
-** requirements.txt
+requirements.txt
 ```
 couchbase
 ```
